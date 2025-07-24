@@ -11,7 +11,7 @@ This project is a console-based adaptation of the Fnaf 1 from scratch, by me. Th
 This is my very first relatively large project that I wrote in C++. I wanted to write something that interested me, and I chose Fnaf because I was very interested in it as a child. 
 
 
-# How to Run the Game (For Beginners)
+# How to Run the Game
 
 ## Simple Compilation on Windows
 
