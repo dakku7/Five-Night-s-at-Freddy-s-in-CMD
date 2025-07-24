@@ -11,37 +11,6 @@ This project is a console-based adaptation of the Fnaf 1 from scratch, by me. Th
 This is my very first relatively large project that I wrote in C++. I wanted to write something that interested me, and I chose Fnaf because I was very interested in it as a child. 
 
 
-# How to Run the Game
-
-## Simple Compilation on Windows
-
-1. Install **Code::Blocks** (a free C++ IDE).
-2. Download the project files (`main.cpp`, `func.h`, `func.cpp`).
-3. Open Code::Blocks and create a new project.
-4. Add the downloaded files to the project.
-5. Click the **Build and Run** button (or press F9).
-
-## Simple Compilation on Linux/macOS
-
-1. Open the terminal.
-2. Make sure you have `g++` installed (type `g++ --version`).
-3. If it's not installed, use the following command:
-   ```bash
-   sudo apt install g++  # for Linux
-   brew install gcc      # for macOS
-
-   
-4. Navigate to the folder with the project files.
-5. Enter the command to compile:
-    ```
-   g++ main.cpp func.cpp -o fnaf
-   
-   ```
-6. Run the game:
-    ```
-   ./fnaf
-   
-   ```
 
 ## P.S
 If anyone sees this, I would appreciate any criticism or simply your opinion (I have only just started learning C++ and this is my first language).
