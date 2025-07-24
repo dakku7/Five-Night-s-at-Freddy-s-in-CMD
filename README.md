@@ -1,6 +1,5 @@
 # Five-Nights-at-Freddys-in-CMD
 
-Adaptation of Fnaf 1 from scratch by me. Made this version of game as close as possible to original game. 
 This project is a console-based adaptation of the Fnaf 1 from scratch, by me. The implementation is done in C++.
 
 ## Code 
