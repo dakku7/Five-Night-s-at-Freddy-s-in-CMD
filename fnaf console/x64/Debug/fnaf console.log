@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\visualcode\fnaf console\fnaf console\main.cpp(145,31): warning C4244: аргумент: преобразование "_Rep" в "int", возможна потеря данных
+D:\visualcode\fnaf console\fnaf console\main.cpp(145,31): warning C4244:         with
+D:\visualcode\fnaf console\fnaf console\main.cpp(145,31): warning C4244:         [
+D:\visualcode\fnaf console\fnaf console\main.cpp(145,31): warning C4244:             _Rep=__int64
+D:\visualcode\fnaf console\fnaf console\main.cpp(145,31): warning C4244:         ]
+  fnaf console.vcxproj -> D:\visualcode\fnaf console\x64\Debug\fnaf console.exe
