@@ -12,4 +12,4 @@ This is my very first relatively large project that I wrote in C++. I wanted to 
 
 ## P.S
 If anyone sees this, I would appreciate any criticism or simply your opinion (I have only just started learning C++ and this is my first language).
-![dance-purple](https://github.com/user-attachments/assets/d877eb70-1b03-4bb8-92b5-20c82eda92a3)
+
