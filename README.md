@@ -13,3 +13,5 @@ This is my very first relatively large project that I wrote in C++. I wanted to 
 ## P.S
 If anyone sees this, I would appreciate any criticism or simply your opinion (I have only just started learning C++ and this is my first language).
 
+<img width="1200" height="675" alt="441" src="https://github.com/user-attachments/assets/66b102cf-309a-4678-a457-814bdb401adb" />
+I’m not the owner of this digital art.
