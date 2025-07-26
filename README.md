@@ -1,6 +1,6 @@
 # Five-Nights-at-Freddys-in-CMD
 
-This project is a console-based adaptation of the Fnaf 1 from scratch, by me. The implementation is done in C++.
+This is a console-based adaptation of the Fnaf 1 from scratch, by me. The implementation is done in C++.
 
 ## Code 
 - **Main Functionality**: The `main.cpp` file contains the main game loop, where threads for animatronic movement, energy management, and rendering are created and managed.
